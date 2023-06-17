@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fudji146
+- 👋 Hi, I’m @Fudji146 (Fudji Prince BOKANDE)
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on open source web development projects
